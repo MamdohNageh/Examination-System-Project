@@ -1,0 +1,7 @@
+test as instructor:
+email : amrahmed2020@yahoo.com
+password : amramr2020
+-------------------------
+test as student:
+email : m_monir1980@yahoo.com
+password: monir80
